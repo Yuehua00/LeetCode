@@ -1,4 +1,5 @@
-// https://leetcode.com/problems/evaluate-boolean-binary-tree/?source=submission-noac
+// Promblem : https://leetcode.com/problems/evaluate-boolean-binary-tree/?source=submission-noac
+// 將 bool binary tree 算出結果
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
