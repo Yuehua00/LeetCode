@@ -1,4 +1,5 @@
-
+// problem : https://leetcode.com/problems/average-of-levels-in-binary-tree/
+// 求每層平均
 
 /**
  * Definition for a binary tree node.
