@@ -32,6 +32,7 @@
 
 ## DP
 ### Easy
-* 118 . Pascal's Triangle.cpp
+* 118 . Pascal's Triangle
 * 338 . Counting Bits
+* 509 . Fibonacci Number
 
