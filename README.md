@@ -32,6 +32,6 @@
 
 ## DP
 ### Easy
-* 118. Pascal's Triangle.cpp
+* 118 . Pascal's Triangle.cpp
 * 338 . Counting Bits
 
