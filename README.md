@@ -35,4 +35,5 @@
 * 118 . Pascal's Triangle
 * 338 . Counting Bits
 * 509 . Fibonacci Number
+* 1025 . Divisor Game
 
